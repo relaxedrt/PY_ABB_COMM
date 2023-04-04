@@ -37,7 +37,8 @@ PROC main()
         okY := StrToVal(YValorString, cambioStrY);
 
         WaitTime(2);
-        
 
+ENDPROC
+END_MODULE
 
         
